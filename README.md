@@ -1,2 +1,0 @@
-# farzad-argo-pass
-adminii
